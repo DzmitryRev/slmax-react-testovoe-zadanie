@@ -10,7 +10,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "linebreak-style": ["error", "windows"],
+    "linebreak-style": "off",
     "quotes": ["error", "double"],
     "semi": ["error", "always"]
   },
